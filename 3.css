@@ -1,0 +1,15 @@
+.wrapper {
+    max-width: 800px;
+    /* the wrapper will be no larger than this amount */
+    width: 80%;
+    /* wrapper is 80% of container up to a max of 800px */
+    margin: 0 auto;
+    background: #B0C4DE;
+    overflow: hidden;
+    padding: 2em;
+}
+
+img {
+    float: left;
+    margin-right: 2em;
+}
